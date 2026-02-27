@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h2 {
+	color:black;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+
+p {
+	color:black;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	}
+
+@media (max-width: 575px){
+	.xs{
+		color: blue;
+		background-color: aqua;
+	}
+}
+
+@media (min-width: 576px) and (max-width:767px){
+	.s{
+		color: blue;
+		background-color: aqua;
+	}
+}
+@media (min-width: 678px) and (max-width:991px){
+	.med{
+		color: blue;
+		background-color: aqua;
+	}
+}
+
+@media (min-width: 992px) and (max-width:1199px){
+	.l{
+		color: blue;
+		background-color: aqua;
+	}
+}
+@media (min-width: 1200px){
+	.xl{
+		color: blue;
+		background-color: aqua;
+	}
+}

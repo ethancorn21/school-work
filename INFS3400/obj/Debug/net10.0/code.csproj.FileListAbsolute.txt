@@ -1,0 +1,14 @@
+/Users/ethan/code/INFS3400/bin/Debug/net10.0/code
+/Users/ethan/code/INFS3400/bin/Debug/net10.0/code.deps.json
+/Users/ethan/code/INFS3400/bin/Debug/net10.0/code.runtimeconfig.json
+/Users/ethan/code/INFS3400/bin/Debug/net10.0/code.dll
+/Users/ethan/code/INFS3400/bin/Debug/net10.0/code.pdb
+/Users/ethan/code/INFS3400/obj/Debug/net10.0/code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethan/code/INFS3400/obj/Debug/net10.0/code.AssemblyInfoInputs.cache
+/Users/ethan/code/INFS3400/obj/Debug/net10.0/code.AssemblyInfo.cs
+/Users/ethan/code/INFS3400/obj/Debug/net10.0/code.csproj.CoreCompileInputs.cache
+/Users/ethan/code/INFS3400/obj/Debug/net10.0/code.dll
+/Users/ethan/code/INFS3400/obj/Debug/net10.0/refint/code.dll
+/Users/ethan/code/INFS3400/obj/Debug/net10.0/code.pdb
+/Users/ethan/code/INFS3400/obj/Debug/net10.0/code.genruntimeconfig.cache
+/Users/ethan/code/INFS3400/obj/Debug/net10.0/ref/code.dll

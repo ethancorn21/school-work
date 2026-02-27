@@ -1,0 +1,14 @@
+/Users/ethan/code/INFS3400/Reverse3/bin/Debug/net10.0/Reverse3
+/Users/ethan/code/INFS3400/Reverse3/bin/Debug/net10.0/Reverse3.deps.json
+/Users/ethan/code/INFS3400/Reverse3/bin/Debug/net10.0/Reverse3.runtimeconfig.json
+/Users/ethan/code/INFS3400/Reverse3/bin/Debug/net10.0/Reverse3.dll
+/Users/ethan/code/INFS3400/Reverse3/bin/Debug/net10.0/Reverse3.pdb
+/Users/ethan/code/INFS3400/Reverse3/obj/Debug/net10.0/Reverse3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethan/code/INFS3400/Reverse3/obj/Debug/net10.0/Reverse3.AssemblyInfoInputs.cache
+/Users/ethan/code/INFS3400/Reverse3/obj/Debug/net10.0/Reverse3.AssemblyInfo.cs
+/Users/ethan/code/INFS3400/Reverse3/obj/Debug/net10.0/Reverse3.csproj.CoreCompileInputs.cache
+/Users/ethan/code/INFS3400/Reverse3/obj/Debug/net10.0/Reverse3.dll
+/Users/ethan/code/INFS3400/Reverse3/obj/Debug/net10.0/refint/Reverse3.dll
+/Users/ethan/code/INFS3400/Reverse3/obj/Debug/net10.0/Reverse3.pdb
+/Users/ethan/code/INFS3400/Reverse3/obj/Debug/net10.0/Reverse3.genruntimeconfig.cache
+/Users/ethan/code/INFS3400/Reverse3/obj/Debug/net10.0/ref/Reverse3.dll

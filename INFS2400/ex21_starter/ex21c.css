@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/* CSS Document for ex21c */
+
+.container {
+	width:90%;
+	margin:auto;
+	background-color: aliceblue;
+}
+
+.header {
+	border: 1px solid #fff;
+  	background-color: #D6E9FE;
+  	height: 200px;
+}
+
+.content {
+  justify-content: space-between;
+  display: flex;
+}
+
+.content-grid {
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+
+.content-grid-item {
+	border: 1px solid #fff;
+	background-color: #D6E9FE;
+	width: 300px;
+	height: 300px;
+}
+
+.footer {
+	justify-content: space-between;
+	display: flex;
+
+}
+
+.footer-item {
+  border: 1px solid #fff;
+  background-color: #D6E9FE;
+  height: 200px;
+  flex: 1;
+}
+
+.footer-two {
+	flex: 2;
+}

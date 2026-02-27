@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Four Forms</title>
+    </head>
+    <body>
+        <h1>Example Forms</h1>
+        <p>This page demonstrates four fully functional HTML forms.</p>
+        
+        <h3>Form #1</h3>
+        <p>A basic form with two text fields.</p>
+        <form method="post" action="response.php">
+            <p>First Name: <input type="text" name="firstname"></p>
+            <p>Last Name: <input type="text" name="lastname"></p>
+            <button type="submit">submit</button>
+        </form>
+        
+        <h3>Form #2</h3>
+        <p>A basic form with a drop-down menu.</p>
+        <form method="post" action="response.php">
+            <p>Please select your favorite radio station:</p>
+            <select name="radiostations">
+                <option value="KUSA">KUSA</option>
+                <option value="WGN">WGN</option>
+                <option value="WUSA">WUSA</option>
+                <option value="NPR">NPR</option>
+                <option value="BBC1">BBC1</option>
+            </select>
+            <button type="submit">Submit</button>
+        </form>
+        
+        <h3>Form #3</h3>
+        <p>A basic form with two radio buttons.</p>
+        <form method="post" action="response.php">
+            <fieldset>
+                <legend>Favorite radio station</legend>
+                <p>Please select your favorite radio station:</p>
+                <input type="radio" name="radio" value="KUSA">KUSA
+                <input type="radio" name="radio" value="WGN">WGN
+                <input type="radio" name="radio" value="WUSA">WUSA
+                <input type="radio" name="radio" value="NPR">NPR
+                <input type="radio" name="radio" value="BBC1">BBC1
+            </fieldset>
+            <fieldset>
+                <legend>Favorite cable station</legend>
+                    <p>Please select your favorite cable TV station:</p>
+                    <input type="radio" name="tv" value="HBO">HBO
+                    <input type="radio" name="tv" value="Showtime">Showtime
+                    <input type="radio" name="tv" value="Disney">Disney Channel
+                    <input type="radio" name="tv" value="Hallmark">Hallmark
+                    <input type="radio" name="tv" value="ESPN">ESPN
+            </fieldset>
+            <button type="submit">Submit</button>
+        </form>
+        
+        <h3>Form #4</h3>
+        <p>A basic form with two drop-down fields.</p>
+        <form method="post" action="response.php">
+            <fieldset>
+            <legend>Please select your favorite radio and cable station:</legend>
+            <select name="stations">
+                <option value="KUSA">KUSA</option>
+                <option value="WGN">WGN</option>
+                <option value="WUSA">WUSA</option>
+                <option value="NPR">NPR</option>
+                <option value="BBC1">BBC1</option>
+            </select>
+            <select name="stations">
+                <option value="HBO">HBO</option>
+                <option value="Showtime">Showtime</option>
+                <option value="Disney">Disney Channel</option>
+                <option value="Hallmark">Hallmark</option>
+                <option value="ESPN">ESPN</option>
+            </select>
+            <button type="submit">Submit</button>
+            <fieldset>
+        </form>
+    </body>
+</html>

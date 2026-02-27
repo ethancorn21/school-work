@@ -1,0 +1,89 @@
+@charset "UTF-8";
+/* CSS Document for ex22.html */
+
+body {
+	margin: 20px;
+	text-align: center;
+	line-height: 140px;
+	background-color: lightgreen;
+}
+
+.box {
+	margin-right: auto;
+	margin-left:auto;
+	height:200px;
+	width:400px;
+	background: #1CF53C;
+	border: medium black solid;
+	margin-bottom: 20px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 1.5em;
+}
+
+.title {
+	animation-duration: 2s;
+	animation-name: slider;
+}
+
+.hinge {
+ 	animation-duration: 2s;
+ 	animation-name: hinge;
+}
+
+.color:hover {
+	animation-duration: 4s;
+	animation-name: pinkfill;
+	animation-iteration-count: infinite;
+}
+@keyframes slider {
+	from{
+		transform: translate3d(-200%,0,0);
+	}
+	to{
+		transform: translate(0,0,0);
+	}
+}
+@keyframes pinkfill{
+	0%{
+		background-color: red;
+		color: darkblue;
+	}
+	25%{
+		background-color: black;
+		color: yellow;
+	}
+	75%{
+		background-color: aqua;
+		color: beige;
+	}
+	100%{
+		background-color: pink;
+		color: red;
+	}
+
+}
+
+@keyframes hinge{
+	0%{
+		transform-origin: top left;
+		animation-timing-function: ease-in-out;
+	}
+	20%, 60%{
+		transform: rotate3d(0,0,1,80deg);
+		transform-origin: top left;
+		animation-timing-function: ease-in-out;
+	}
+	40%{
+		transform: rotate3d(0,0,1,60deg);
+		transform-origin: top left;
+		animation-timing-function: ease-in-out;
+		opacity: 1;
+	}
+	to{
+		transform: translate3d(0,700px,0);
+		opacity: 0;
+	}
+}
+
+
+

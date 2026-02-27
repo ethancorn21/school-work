@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document for Ex27 */
+
+.container,.container-fluid {
+	background-color:rgb(24, 56, 69);
+}
+
+.jumbotron {
+	background-color:rgb(136, 54, 68);
+}
+
+.row {
+	background-color:grey;
+}

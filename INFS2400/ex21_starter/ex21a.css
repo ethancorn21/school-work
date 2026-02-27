@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+/* CSS for ex21a */
+
+.purplebox {
+	background-color: purple;
+	color: deeppink;
+}
+
+.boxmodel {
+	background-color: yellow;
+	width: 200px;
+	height: 100px;
+	border: 20px solid orange;
+	padding: 20px;
+	margin: 20px;
+}
