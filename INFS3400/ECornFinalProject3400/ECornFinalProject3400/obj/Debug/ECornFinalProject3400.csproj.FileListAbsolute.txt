@@ -1,0 +1,9 @@
+C:\Users\ethan\Downloads\ECornFinalProject3400\ECornFinalProject3400\ECornFinalProject3400\bin\Debug\ECornFinalProject3400.exe.config
+C:\Users\ethan\Downloads\ECornFinalProject3400\ECornFinalProject3400\ECornFinalProject3400\bin\Debug\ECornFinalProject3400.exe
+C:\Users\ethan\Downloads\ECornFinalProject3400\ECornFinalProject3400\ECornFinalProject3400\bin\Debug\ECornFinalProject3400.pdb
+C:\Users\ethan\Downloads\ECornFinalProject3400\ECornFinalProject3400\ECornFinalProject3400\obj\Debug\ECornFinalProject3400.csproj.AssemblyReference.cache
+C:\Users\ethan\Downloads\ECornFinalProject3400\ECornFinalProject3400\ECornFinalProject3400\obj\Debug\ECornFinalProject3400.Form1.resources
+C:\Users\ethan\Downloads\ECornFinalProject3400\ECornFinalProject3400\ECornFinalProject3400\obj\Debug\ECornFinalProject3400.csproj.GenerateResource.cache
+C:\Users\ethan\Downloads\ECornFinalProject3400\ECornFinalProject3400\ECornFinalProject3400\obj\Debug\ECornFinalProject3400.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Downloads\ECornFinalProject3400\ECornFinalProject3400\ECornFinalProject3400\obj\Debug\ECornFinalProject3400.exe
+C:\Users\ethan\Downloads\ECornFinalProject3400\ECornFinalProject3400\ECornFinalProject3400\obj\Debug\ECornFinalProject3400.pdb

@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ethan\\Downloads\\ECornFinalProject3400\\ECornFinalProject3400\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A2C1B4-E5D6-4C7B-8A9E-1234567890AB}|ECornFinalProject3400\\ECornFinalProject3400.csproj|c:\\users\\ethan\\downloads\\ecornfinalproject3400\\ecornfinalproject3400\\ecornfinalproject3400\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A2C1B4-E5D6-4C7B-8A9E-1234567890AB}|ECornFinalProject3400\\ECornFinalProject3400.csproj|solutionrelative:ecornfinalproject3400\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A2C1B4-E5D6-4C7B-8A9E-1234567890AB}|ECornFinalProject3400\\ECornFinalProject3400.csproj|C:\\Users\\ethan\\Downloads\\ECornFinalProject3400\\ECornFinalProject3400\\ecornfinalproject3400\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A2C1B4-E5D6-4C7B-8A9E-1234567890AB}|ECornFinalProject3400\\ECornFinalProject3400.csproj|solutionrelative:ecornfinalproject3400\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A2C1B4-E5D6-4C7B-8A9E-1234567890AB}|ECornFinalProject3400\\ECornFinalProject3400.csproj|C:\\Users\\ethan\\Downloads\\ECornFinalProject3400\\ECornFinalProject3400\\ecornfinalproject3400\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8A2C1B4-E5D6-4C7B-8A9E-1234567890AB}|ECornFinalProject3400\\ECornFinalProject3400.csproj|solutionrelative:ecornfinalproject3400\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\Downloads\\ECornFinalProject3400\\ECornFinalProject3400\\ECornFinalProject3400\\Animal.cs",
+              "RelativeDocumentMoniker": "ECornFinalProject3400\\Animal.cs",
+              "ToolTip": "C:\\Users\\ethan\\Downloads\\ECornFinalProject3400\\ECornFinalProject3400\\ECornFinalProject3400\\Animal.cs",
+              "RelativeToolTip": "ECornFinalProject3400\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T22:14:10.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\Downloads\\ECornFinalProject3400\\ECornFinalProject3400\\ECornFinalProject3400\\Form1.cs",
+              "RelativeDocumentMoniker": "ECornFinalProject3400\\Form1.cs",
+              "ToolTip": "C:\\Users\\ethan\\Downloads\\ECornFinalProject3400\\ECornFinalProject3400\\ECornFinalProject3400\\Form1.cs",
+              "RelativeToolTip": "ECornFinalProject3400\\Form1.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwF8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T21:58:04.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ethan\\Downloads\\ECornFinalProject3400\\ECornFinalProject3400\\ECornFinalProject3400\\Form1.cs",
+              "RelativeDocumentMoniker": "ECornFinalProject3400\\Form1.cs",
+              "ToolTip": "C:\\Users\\ethan\\Downloads\\ECornFinalProject3400\\ECornFinalProject3400\\ECornFinalProject3400\\Form1.cs [Design]",
+              "RelativeToolTip": "ECornFinalProject3400\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T21:53:01.304Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
